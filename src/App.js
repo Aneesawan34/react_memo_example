@@ -1,7 +1,7 @@
 import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
-import InputChild from "./InputChild";
+import InputChild from "./ChildComponent";
 
 class App extends React.Component {
   constructor() {
